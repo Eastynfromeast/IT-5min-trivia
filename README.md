@@ -1,3 +1,3 @@
-#Nomad Book Club <IT 5분 잡학사전>
+# Nomad Book Club <IT 5분 잡학사전>
 
 노개북 IT 5분 잡학 사전을 읽고 기록하기 위한 깃허브 레퍼지토리입니다.
